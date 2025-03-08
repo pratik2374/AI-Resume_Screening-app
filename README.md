@@ -7,6 +7,13 @@ A web-based application that automates the evaluation of job applicants' resumes
 
 The AI-Powered Resume Screening Tool is designed to assist recruiters by automatically evaluating resumes based on a provided job description and keywords. This tool leverages the Groq API for NLP to analyze resumes and determine candidate suitability.
 
+## How It Works
+
+1. **Upload Resumes**: Upload any number of resumes or CVs and click submit.
+   ![Upload Interface](/Image%20file/Interface1.png)
+2. **AI Analysis**: The AI will analyze the resumes or CVs according to your specified criteria and provide results with detailed explanations.
+   ![Result Interface](/Image%20file/result%20interface.png)
+
 ## Features
 
 - **Resume Upload**: Upload multiple resumes in PDF format through a web interface.
