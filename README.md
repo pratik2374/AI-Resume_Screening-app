@@ -27,6 +27,10 @@ The AI-Powered Resume Screening Tool is designed to assist recruiters by automat
    ```bash
    pip install -r requirements.txt
    ```
+3. SetUp the flask app:
+   ```bash
+   set FLASK_APP=app.py
+   ```
 3. Start the server:
    ```bash
    flask run
@@ -34,7 +38,7 @@ The AI-Powered Resume Screening Tool is designed to assist recruiters by automat
 
 ## Usage
 
-1. Upload resumes through the web interface.
+1. Upload as many resumes as you want through the web interface.
 2. Enter a job description and specify mandatory keywords.
 3. Review the AI-generated suitability classification and comments for each resume.
 4. Export results as a CSV file for further analysis.
